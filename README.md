@@ -45,6 +45,8 @@ with npm:
 
 or 
 
+with yarn:
+
 ```yarn add --dev jest```
 
 ---
