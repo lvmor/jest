@@ -89,6 +89,7 @@ Expected value test:
 ## Additional Resources
 - [A quick introduction to test driven development with Jest](https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50)
 - [Jest Crash Course](https://www.youtube.com/watch?v=7r4xVDI2vho)
+- [Snapshot Testing](https://jest-bot.github.io/jest/docs/snapshot-testing.html)
 
 
 ---
