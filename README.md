@@ -47,9 +47,11 @@ or
 
 ```yarn add --dev jest```
 
+---
 
+## Running Tests
 
-
+```npm test```
 
 ---
 
