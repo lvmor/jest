@@ -27,7 +27,7 @@ https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-
 ## Why use Jest?
 
 - Super Fast - allows all your failed tests to run first
-- Snapshot Testing 
+- Snapshot Testing -compares expectation to stored snapshot
 - Sandboxed
 - Error reporting - tells you the exact line where error is at, gives a nice output
 - Zero Config - Do not have to configure anything for JS implentation
