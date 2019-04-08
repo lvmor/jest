@@ -26,6 +26,14 @@ Jest is a JavaScript Testing Framework with a focus on simplicity.
 
 ---
 
+## Test Driven Development (TDD)
+
+1. Writing a test for a small part of a functionality and checking that this new test is failing (Red step)
+2. Writing the code that makes the test pass, then checking that your previous test and the new one are successful (Green step)
+3. Refactoring the code to make sure it is clear, understandable, and behaves well with the previous functionalities
+
+https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50
+
 ## Initial Setup
 
 Installing Jest dev dependency
@@ -38,8 +46,6 @@ or
 
 ```yarn add --dev jest```
 
-
-## Test Driven Development (TDD)
 
 
 
