@@ -57,11 +57,6 @@ with yarn:
 
 ---
 
-## Additional Resources
-- [A quick introduction to test driven development with Jestl](https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50)
-
----
-
 ## Examples
 
 
@@ -75,4 +70,7 @@ with yarn:
 });
 ```
 
+## Additional Resources
+- [A quick introduction to test driven development with Jestl](https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50)
 
+---
