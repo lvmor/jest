@@ -14,15 +14,25 @@ Jest is a JavaScript Testing Framework with a focus on simplicity.
 - [React](https://reactjs.org/)
 - [Angular](https://angular.io/)
 - [Vue](https://vuejs.org/)
-
-and more.
+- and more
 ---
 
 ## Initial Setup
+
+Installing Jest dev dependency
+
+with npm:
+
 ```npm i --save-dev jest```
 
+or 
 
-##### Screenshot
+```yarn add --dev jest```
+
+
+## Test Driven Development (TDD)
+
+
 
 
 ---
