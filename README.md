@@ -4,7 +4,6 @@ Jest is a JavaScript Testing Framework with a focus on simplicity.
 
 - [Jest](https://jestjs.io//)
 
-
 ---
 
 ## It works with the following technologies:
@@ -15,6 +14,16 @@ Jest is a JavaScript Testing Framework with a focus on simplicity.
 - [Angular](https://angular.io/)
 - [Vue](https://vuejs.org/)
 - and more
+---
+
+## Why use Jest?
+
+- Super Fast - allows all your failed tests to run first
+- Snapshot Testing 
+- Sandboxed
+- Error reporting - tells you the exact line where error is at, gives a nice output
+- Zero Config - Do not have to configure anything
+
 ---
 
 ## Initial Setup
