@@ -30,7 +30,7 @@ https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-
 - Snapshot Testing 
 - Sandboxed
 - Error reporting - tells you the exact line where error is at, gives a nice output
-- Zero Config - Do not have to configure anything
+- Zero Config - Do not have to configure anything for JS implentation
 
 ---
 
