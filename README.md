@@ -1,8 +1,7 @@
 # Jest
 
-Jest is a JavaScript Testing Framework with a focus on simplicity.
+Jest](https://jestjs.io//) is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows you to write tests with an approachable, familiar and feature-rich API that gives you results quickly.
 
-- [Jest](https://jestjs.io//)
 
 ---
 
