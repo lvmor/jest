@@ -7,7 +7,7 @@ Jest is a JavaScript Testing Framework with a focus on simplicity.
 
 ---
 
-## It works with the followinf technologies:
+## It works with the following technologies:
 - [Babel](https://babeljs.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node](https://nodejs.org/en/)
@@ -17,6 +17,10 @@ Jest is a JavaScript Testing Framework with a focus on simplicity.
 
 and more.
 ---
+
+## Initial Setup
+```npm i --save-dev jest```
+
 
 ##### Screenshot
 
