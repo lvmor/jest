@@ -37,6 +37,11 @@ or
 
 ---
 
+## Additional Resources
+- [A quick introduction to test driven development with Jestl](https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50)
+
+---
+
 ## Examples
 
 ```test('object assignment', () => {
@@ -44,12 +49,5 @@ or
   data['two'] = 2;
   expect(data).toEqual({one: 1, two: 2});
 });```
-
-
----
-## Additional Resources
-- [A quick introduction to test driven development with Jestl](https://medium.freecodecamp.org/a-quick-introduction-to-test-driven-development-with-jest-cac71cb94e50)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Node](https://nodejs.org/en/)
 
 
